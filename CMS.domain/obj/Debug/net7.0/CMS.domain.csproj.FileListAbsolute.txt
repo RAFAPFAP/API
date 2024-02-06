@@ -1,0 +1,11 @@
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.domain\bin\Debug\net7.0\CMS.domain.deps.json
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.domain\bin\Debug\net7.0\CMS.domain.dll
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.domain\bin\Debug\net7.0\CMS.domain.pdb
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.domain\obj\Debug\net7.0\CMS.domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.domain\obj\Debug\net7.0\CMS.domain.AssemblyInfoInputs.cache
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.domain\obj\Debug\net7.0\CMS.domain.AssemblyInfo.cs
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.domain\obj\Debug\net7.0\CMS.domain.csproj.CoreCompileInputs.cache
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.domain\obj\Debug\net7.0\CMS.domain.dll
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.domain\obj\Debug\net7.0\refint\CMS.domain.dll
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.domain\obj\Debug\net7.0\CMS.domain.pdb
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.domain\obj\Debug\net7.0\ref\CMS.domain.dll

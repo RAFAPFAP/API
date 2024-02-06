@@ -1,0 +1,17 @@
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.infraestructure\bin\Debug\net7.0\CMS.infraestructure.deps.json
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.infraestructure\bin\Debug\net7.0\CMS.infraestructure.runtimeconfig.json
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.infraestructure\bin\Debug\net7.0\CMS.infraestructure.dll
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.infraestructure\bin\Debug\net7.0\CMS.infraestructure.pdb
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.infraestructure\bin\Debug\net7.0\CMS.domain.dll
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.infraestructure\bin\Debug\net7.0\CMS.domain.pdb
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.infraestructure\obj\Debug\net7.0\CMS.infraestructure.csproj.AssemblyReference.cache
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.infraestructure\obj\Debug\net7.0\CMS.infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.infraestructure\obj\Debug\net7.0\CMS.infraestructure.AssemblyInfoInputs.cache
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.infraestructure\obj\Debug\net7.0\CMS.infraestructure.AssemblyInfo.cs
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.infraestructure\obj\Debug\net7.0\CMS.infraestructure.csproj.CoreCompileInputs.cache
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.infraestructure\obj\Debug\net7.0\CMS.infraestructure.csproj.CopyComplete
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.infraestructure\obj\Debug\net7.0\CMS.infraestructure.dll
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.infraestructure\obj\Debug\net7.0\refint\CMS.infraestructure.dll
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.infraestructure\obj\Debug\net7.0\CMS.infraestructure.pdb
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.infraestructure\obj\Debug\net7.0\CMS.infraestructure.genruntimeconfig.cache
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.infraestructure\obj\Debug\net7.0\ref\CMS.infraestructure.dll

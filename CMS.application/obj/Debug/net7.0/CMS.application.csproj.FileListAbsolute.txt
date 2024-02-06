@@ -1,0 +1,17 @@
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.application\bin\Debug\net7.0\CMS.application.deps.json
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.application\bin\Debug\net7.0\CMS.application.dll
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.application\bin\Debug\net7.0\CMS.application.pdb
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.application\bin\Debug\net7.0\CMS.domain.dll
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.application\bin\Debug\net7.0\CMS.infraestructure.dll
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.application\bin\Debug\net7.0\CMS.infraestructure.pdb
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.application\bin\Debug\net7.0\CMS.domain.pdb
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.application\obj\Debug\net7.0\CMS.application.csproj.AssemblyReference.cache
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.application\obj\Debug\net7.0\CMS.application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.application\obj\Debug\net7.0\CMS.application.AssemblyInfoInputs.cache
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.application\obj\Debug\net7.0\CMS.application.AssemblyInfo.cs
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.application\obj\Debug\net7.0\CMS.application.csproj.CoreCompileInputs.cache
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.application\obj\Debug\net7.0\CMS.application.csproj.CopyComplete
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.application\obj\Debug\net7.0\CMS.application.dll
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.application\obj\Debug\net7.0\refint\CMS.application.dll
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.application\obj\Debug\net7.0\CMS.application.pdb
+D:\Documents\source\repos\UISEK\DAW\CMS.API\CMS.application\obj\Debug\net7.0\ref\CMS.application.dll
